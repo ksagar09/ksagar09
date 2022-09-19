@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saagar</h1>
 <h3 align="center">I'm React Developer From India, Who Is Ready To Learn Anything @ Anytime</h3>
 
-{*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksagar09" alt="ksagar09" /></a> </p>*}
 
 <p align="left"> <a href="https://twitter.com/saagar_kw" target="blank"><img src="https://img.shields.io/twitter/follow/saagar_kw?logo=twitter&style=for-the-badge" alt="saagar_kw" /></a> </p>
 
